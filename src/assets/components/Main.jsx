@@ -3,12 +3,12 @@ export default function Main() {
     <>
       <main>
         <section className="conteiner-button">
-          <buttonc className="btn">HTML</buttonc>
-          <buttonc className="btn">CSS</buttonc>
-          <buttonc className="btn">JavaScript</buttonc>
-          <buttonc className="btn">Node.js</buttonc>
-          <buttonc className="btn">Express</buttonc>
-          <buttonc className="btn">React.js</buttonc>
+          <button className="btn">HTML</button>
+          <button className="btn">CSS</button>
+          <button className="btn">JavaScript</button>
+          <button className="btn">Node.js</button>
+          <button className="btn">Express</button>
+          <button className="btn">React.js</button>
         </section>
         <section>
           <div className="container-descrition">
