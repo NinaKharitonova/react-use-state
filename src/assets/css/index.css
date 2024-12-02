@@ -26,6 +26,7 @@ section.conteiner-button {
   margin: 1rem;
   margin-bottom: 4rem;
   margin-top: 4rem;
+  cursor: pointer;
 }
 
 .container-descrition {
@@ -36,4 +37,12 @@ section.conteiner-button {
   height: 9rem;
   margin-left: 6rem;
   border-radius: 1rem;
+}
+
+.title {
+  font-weight: bold;
+}
+
+.descrition {
+  margin: 1rem;
 }
