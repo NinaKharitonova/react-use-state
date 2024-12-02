@@ -1,3 +1,8 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 header {
   background-color: rgb(216, 215, 215);
   text-align: center;
@@ -9,6 +14,11 @@ h1 {
   text-align: center;
   font-size: 3rem;
 }
+
+section.conteiner-button {
+  text-align: center;
+}
+
 .btn {
   background-color: rgb(60, 119, 246);
   border-radius: 14px;
@@ -16,4 +26,14 @@ h1 {
   margin: 1rem;
   margin-bottom: 4rem;
   margin-top: 4rem;
+}
+
+.container-descrition {
+  max-width: 52rem;
+  border: 0.1rem solid #0000004f;
+  text-align: center;
+  width: 100%;
+  height: 9rem;
+  margin-left: 6rem;
+  border-radius: 1rem;
 }
